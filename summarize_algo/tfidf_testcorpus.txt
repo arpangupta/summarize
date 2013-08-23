@@ -1,0 +1,6 @@
+50
+girl:1
+moon:1
+said:5
+phone:2
+http://cnn.com:2
